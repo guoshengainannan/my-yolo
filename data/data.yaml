@@ -1,0 +1,5 @@
+train: D:\YoLo\datasets\severstal\train\images
+val: D:\YoLo\datasets\severstal\valid\images
+
+nc: 4
+names: ['1', '2', '3', '4']
